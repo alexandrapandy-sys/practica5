@@ -1,0 +1,87 @@
+
+
+body{
+margin:0;
+font-family:Arial;
+background:#f7e8b3;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+}
+
+td{
+border:1px solid #1e1907;
+padding:15px;
+vertical-align:top;
+}
+
+.header{
+background:#2B3784;
+color:rgb(250, 243, 243);
+font-size:32px;
+text-align:center;
+padding:30px;
+}
+
+.menu{
+background:#b11313;
+color:rgb(53, 4, 4);
+width:200px;
+}
+
+.menu a{
+display:block;
+color:white;
+text-decoration:none;
+padding:10px;
+margin:5px 0;
+background:#7d0303;
+border-radius:5px;
+}
+
+.menu a:hover{
+background:#4c5664;
+}
+
+.banner{
+background:#f7e8b3;
+text-align:center;
+}
+
+.galeria img{
+width:100%;
+border-radius:6px;
+}
+
+.contenido{
+background:white;
+}
+
+.Personajes_principales{
+background:#0d0d0d;
+}
+
+.publicidad{
+background:#fff3cd;
+text-align:center;
+}
+
+.video{
+background:#e9f7ef;
+text-align:center;
+}
+
+.footer{
+background:#1f3a5f;
+color:white;
+text-align:center;
+font-size:14px;
+padding:20px;
+}
+
+h2{
+margin-top:0;
+}
+
